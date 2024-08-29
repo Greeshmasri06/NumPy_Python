@@ -1,2 +1,2 @@
 # NumPy_Python
-Used some of numpy functions.
+Used Some Of NumPy Functions.
